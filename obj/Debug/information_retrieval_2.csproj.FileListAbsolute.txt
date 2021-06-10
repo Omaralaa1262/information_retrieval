@@ -1,0 +1,73 @@
+E:\visual projects\information_retrieval_2\information_retrieval_2\obj\Debug\information_retrieval_2.Form1.resources
+E:\visual projects\information_retrieval_2\information_retrieval_2\obj\Debug\information_retrieval_2.Properties.Resources.resources
+E:\visual projects\information_retrieval_2\information_retrieval_2\obj\Debug\information_retrieval_2.csproj.GenerateResource.Cache
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\information_retrieval_2.exe.config
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\Core14.profile.xml
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\Views\language-detection-test-page.html
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\information_retrieval_2.exe
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\information_retrieval_2.pdb
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\HtmlAgilityPack.dll
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\IvanAkcheurov.Commons.dll
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\IvanAkcheurov.NClassify.dll
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\IvanAkcheurov.NTextCat.Lib.dll
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\Nancy.dll
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\NTextCat.NancyHandler.dll
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\HtmlAgilityPack.pdb
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\HtmlAgilityPack.xml
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\IvanAkcheurov.Commons.xml
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\IvanAkcheurov.NClassify.xml
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\IvanAkcheurov.NTextCat.Lib.xml
+E:\visual projects\information_retrieval_2\information_retrieval_2\bin\Debug\Nancy.xml
+E:\visual projects\information_retrieval_2\information_retrieval_2\obj\Debug\information_retrieval_2.csprojResolveAssemblyReference.cache
+E:\visual projects\information_retrieval_2\information_retrieval_2\obj\Debug\information_retrieval_2.exe
+E:\visual projects\information_retrieval_2\information_retrieval_2\obj\Debug\information_retrieval_2.pdb
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\information_retrieval_2.exe.config
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.exe
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.pdb
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.csprojResolveAssemblyReference.cache
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.Form1.resources
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.Properties.Resources.resources
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.csproj.GenerateResource.Cache
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Core14.profile.xml
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Views\language-detection-test-page.html
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\information_retrieval_2.exe
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\information_retrieval_2.pdb
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\HtmlAgilityPack.dll
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.Commons.dll
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.NClassify.dll
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.NTextCat.Lib.dll
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Nancy.dll
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\NTextCat.NancyHandler.dll
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\HtmlAgilityPack.pdb
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\HtmlAgilityPack.xml
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.Commons.xml
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.NClassify.xml
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.NTextCat.Lib.xml
+E:\visual projects\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Nancy.xml
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Core14.profile.xml
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Views\language-detection-test-page.html
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\information_retrieval_2.exe.config
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\information_retrieval_2.exe
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\information_retrieval_2.pdb
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\HtmlAgilityPack.dll
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.Commons.dll
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.NClassify.dll
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.NTextCat.Lib.dll
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Microsoft.mshtml.dll
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Nancy.dll
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\NTextCat.NancyHandler.dll
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\HtmlAgilityPack.pdb
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\HtmlAgilityPack.xml
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.Commons.xml
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.NClassify.xml
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\IvanAkcheurov.NTextCat.Lib.xml
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Nancy.xml
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.Form1.resources
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.Properties.Resources.resources
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.csproj.GenerateResource.cache
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.csproj.CoreCompileInputs.cache
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.csproj.CopyComplete
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.exe
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.pdb
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\obj\Debug\information_retrieval_2.csprojAssemblyReference.cache
+E:\FCIS\4th Year\2nd term\IR\information_retrieval_2 - Copy\information_retrieval_2\bin\Debug\Annytab.Stemmer.dll
